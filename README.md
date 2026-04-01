@@ -1,8 +1,8 @@
-TypeScript Concepts for Automation Engineers 🚀
+TypeScript for Playwright Automation  🚀
 
-This repository contains practical TypeScript concepts with examples that are useful for automation testing, Playwright, and modern TypeScript development.
+This repository contains practical TypeScript concepts and examples useful for automation testing, Playwright, and modern TypeScript development.
 
-It is designed for QA Engineers, SDETs, and developers who want to strengthen their TypeScript fundamentals before working with frameworks like Playwright, Cypress, or Node.js automation frameworks.
+It is designed for QA Engineers, SDETs, and developers who want to strengthen their TypeScript fundamentals before working with frameworks such as Playwright, Cypress, or Node.js.
 
 📚 Topics Covered
 
